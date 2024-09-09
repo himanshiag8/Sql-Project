@@ -25,8 +25,7 @@ The primary objectives of this analysis are:
 * Filtered data for further analysis.
   
 2. Feature Engineering:
-
-Created new columns such as timeofday (Morning, Afternoon, Evening), dayname (days of the week), and monthname to analyze sales patterns.
+  * Created new columns such as timeofday (Morning, Afternoon, Evening), dayname (days of the week), and monthname to analyze sales patterns.
 
 3. Exploratory Data Analysis (EDA):
 
@@ -41,13 +40,14 @@ Some of the business questions answered in this project include:
 * Which product line incurred the highest VAT?
 * What are the most frequently used payment methods?
 * What is the customer demographic distribution across branches?
-* 
+  
 # Key Insights
 1. Product Analysis:
 
 * Best-Selling Product: Food and Beverages.
 * Needs Improvement: Home and Lifestyle products due to lower ratings.
 * Gender Preferences: Fashion Accessories are mostly purchased by females, while Health and Beauty products are popular among males.
+  
 2. Sales Analysis:
 
 * Best Sales Month: January.
@@ -63,12 +63,12 @@ Some of the business questions answered in this project include:
 # Recommendations
 
 * Improve Home and Lifestyle products to increase customer satisfaction.
-Focus on enhancing the Health and Beauty category to attract more male customers.
-Plan promotions during January and on Sundays when sales are highest.
-Strategize for each branch individually, especially focusing on Naypyitaw for high revenue and Yangon for VAT management.
+* Focus on enhancing the Health and Beauty category to attract more male customers.
+* Plan promotions during January and on Sundays when sales are highest.
+* Strategize for each branch individually, especially focusing on Naypyitaw for high revenue and Yangon for VAT management.
 
 # Tools
-SQL: Data storage and manipulation.
+  *SQL: Data storage and manipulation.
 
 # Future Work
 
